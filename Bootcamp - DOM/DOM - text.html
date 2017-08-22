@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>DOM textContent</title>
+    </head>
+
+    <body>
+        <h1>Welcome to my DOM text demo</h1>
+        
+        <p>
+            Corgi mixes are <strong>super</strong> awesome
+        </p>
+
+        <ul>
+            <li>Tulips</li>
+            <li>Vegetables</li>
+            <li>Orchids</li>
+        </ul>
+        
+        <script>
+            var p = document.getElementsByTagName("p")[0];
+            console.log(p.textContent);
+
+            var p = document.getElementsByTagName("p")[0];
+            console.log(p.innerHTML);
+
+        </script>
+    </body>
+    
+</html>
