@@ -1,0 +1,21 @@
+h1{
+    color: black;
+    border-color: purple;
+    border-width: 5px;
+    border-style: solid;
+    
+    border: 5px dashed red;
+}
+li{
+    color: green;
+}
+h4{
+    color: red;
+    background: green;
+}
+body{
+    background: pink;
+    /*background: url(http://res.freestockphotos.biz/pictures/14/14246-close-up-of-wood-grain-with-moss-pv.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

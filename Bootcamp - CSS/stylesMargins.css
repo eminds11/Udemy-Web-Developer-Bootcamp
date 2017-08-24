@@ -1,0 +1,19 @@
+p{
+    width: 50%;
+    
+    border: 2px solid blue;
+    
+    padding-left: 40px;
+    
+    margin: 25px;
+    
+    margin: 20px 40px 500px 100px;
+    /* top, right, bottom, left */
+    
+    margin: 0 auto 0 auto;
+    /*same as*/
+    margin: 0 auto;
+    /* top/bottom right/left*/
+    
+    margin: 50px 20px;
+}

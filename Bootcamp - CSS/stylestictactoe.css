@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+}
+
+table{
+    
+    margin:auto;
+}
+
+td{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.vert{
+    border: solid grey;
+    border-width: 0px 2px 0px 2px;
+}
+
+.hor{
+    border: solid grey;
+    border-width: 2px 0px 2px 0px;
+}
+
+.verthor{
+    border: solid grey;
+    border-width: 2px 2px;
+}
